@@ -13,8 +13,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
 - [Author](#author)
 
----
-
 ## Overview
 
 ### Screenshot
@@ -24,8 +22,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
----
 
 ## My process
 
@@ -43,8 +39,6 @@ In this challenge I learned how to analyze the structure of a component. How the
 ### Continued development
 
 Vou continuar colocando em prática os conceitos aprendidos de CSS e HTML, além de explorar frameworks, bibliotecas e pré processadores CSS.
-
----
 
 ## Author
 
